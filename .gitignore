@@ -18,3 +18,7 @@ AGENTS.md
 
 # Experimental code/artifacts
 dev/
+
+# devenv
+.devenv
+.devenv.flake.nix
